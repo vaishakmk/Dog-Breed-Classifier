@@ -2,7 +2,7 @@
 
 
 Team Members :
-    ● Rohith Puvvala Subramanyam
+    ● Rohith Puvvala Subramanyam <br/>
     ● Sai Varshith Talluri
     ● Teja Ramisetty
     ● Vaishak Melarcode Kallampad
