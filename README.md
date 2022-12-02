@@ -33,7 +33,7 @@ Dataset :
 Files :
 
     ● dogImages - A folder containing the images separated into training , validation and test folders.
-    The link to download is here.
+    The link to download is https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip .
     ● bottleneck_features - A folder containing the bottleneck features of the 4 models. Download links
     for all 4 models have been provided in the below section.
     ● model_data - A folder containing the Object detection model. Refer
@@ -62,10 +62,10 @@ trained in this python notebook.
     features are the last activation maps before the fully-connected layers in a pretrained model. We
     remove the last fully connected layer from the model and plug in your layers there.
     ● You can download the bottleneck features for the different models from the below links:
-        - VGG-19 bottleneck features
-        - ResNet-50 bottleneck features
-        - Inception bottleneck features
-        - Xception bottleneck features
+        - VGG-19 bottleneck features : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz
+        - ResNet-50 bottleneck features : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+        - Inception bottleneck features : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
+        - Xception bottleneck features : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogXceptionData.npz
     ● Place the downloaded files in a folder bottleneck_features in your working directory.
     ● Once you run all the code blocks in you will have all the models trained on the dog dataset and
     saved in a folder in your directory.
