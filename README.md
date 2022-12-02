@@ -2,11 +2,15 @@
 
 
 Team Members :
+
     ● Rohith Puvvala Subramanyam <br/>
-    ● Sai Varshith Talluri
-    ● Teja Ramisetty
-    ● Vaishak Melarcode Kallampad
-    Requirements :
+    ● Sai Varshith Talluri<br/>
+    ● Teja Ramisetty<br/>
+    ● Vaishak Melarcode Kallampad<br/>
+    
+    
+Requirements :
+
     ● Tensorflow - 2.10.0
     ● OpenCV - 4.6.0
     ● Any IDE supporting python - VS Code, Pycharm
@@ -19,6 +23,7 @@ Team Members :
 
 
 Dataset :
+
     ● You can download the dog dataset here. Unzip the folder and place it in your working directory
     where all the other python files(.py) and notebooks(.ipynb) exist.
     ● This data set has 8,351 total images with 133 different breeds. The number of available images
@@ -26,6 +31,7 @@ Dataset :
 
 
 Files :
+
     ● dogImages - A folder containing the images separated into training , validation and test folders.
     The link to download is here.
     ● bottleneck_features - A folder containing the bottleneck features of the 4 models. Download links
@@ -46,8 +52,10 @@ Files :
 
 
 Training :
+
 The training of the different models is performed in the All_Models.ipynb file. There are a total of 5 models
 trained in this python notebook.
+
     ● The “CNN model from scratch” can be trained by executing all the code blocks under it in the
     notebook.
     ● For the rest of the pretrained models we need to download the bottleneck features. Bottleneck
@@ -63,6 +71,7 @@ trained in this python notebook.
     saved in a folder in your directory.
 
 Predicting Dog Breeds - Program Execution :
+
     ● Run the file main.py.
     ● It will ask for a choice of model among the 4 mentioned above. Give choice.
     ● Then you will get a prompt to choose the input - from a webcam or saved video.
