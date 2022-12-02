@@ -3,10 +3,10 @@
 
 Team Members :
 
-    ● Rohith Puvvala Subramanyam <br/>
-    ● Sai Varshith Talluri<br/>
-    ● Teja Ramisetty<br/>
-    ● Vaishak Melarcode Kallampad<br/>
+    ● Rohith Puvvala Subramanyam
+    ● Sai Varshith Talluri
+    ● Teja Ramisetty
+    ● Vaishak Melarcode Kallampad
     
     
 Requirements :
